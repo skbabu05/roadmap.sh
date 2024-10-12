@@ -18,7 +18,7 @@ You can view project code [here](https://github.com/skbabu05/roadmap.sh/blob/mai
 
 - **HTML**: For the basic structure and content of the CV.
 
-## Getting Started
+## 🚀  Getting Started
 
 ### Prerequisites
 
