@@ -8,12 +8,15 @@ This repository contains various projects inspired by roadmap.sh, covering diffe
 
 1. **[Single-Page CV](https://github.com/skbabu05/roadmap.sh/tree/main/Single-Page-CV)**  
    single-page CV for Santosh Kumar, showcasing personal details, skills, education, and work experience using HTML.
-   
+
    - Sample solution for the [Single-Page CV](https://roadmap.sh/projects/single-page-cv)  Project from [roadmap.sh](https://roadmap.sh/).
 
-<!-- 2. **[Project Name 2](#)**  
-   Description for Project 2...
+2. **[Basic-HTML-Website](https://github.com/skbabu05/roadmap.sh/tree/main/Basic-HTML-Website)**  
+   Basic HTML website with navigation links to Home, Projects, Articles, and Contact pages.
 
+   - Sample solution for the [Basic HTML Website](https://roadmap.sh/projects/basic-html-website)  Project from [roadmap.sh](https://roadmap.sh/).
+
+<!--
 3. **[Project Name 3](#)**  
    Description for Project 3... -->
 
