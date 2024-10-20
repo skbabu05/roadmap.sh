@@ -6,6 +6,8 @@ This is a personal portfolio website for showcasing the projects, work experienc
 
 * You can view the project code [here](https://github.com/skbabu05/roadmap.sh/tree/main/Portfolio).
 
+---
+
 ## Features
 
 * **Home Page**: Introduces the user with a brief description and navigation to other sections.
@@ -20,6 +22,8 @@ This is a personal portfolio website for showcasing the projects, work experienc
 
 - **HTML**: For the basic structure and content of the website.
 - **CSS**: For styling the website.
+
+---
 
 ## 🚀 Getting Started
 
@@ -39,6 +43,8 @@ Ensure you have the following installed on your system:
     cd roadmap.sh/Portfolio
     ```
 2. Open the `index.html` file in a web browser to view the portfolio.
+
+---
 
 ## Author
 
